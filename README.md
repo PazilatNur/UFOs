@@ -25,6 +25,7 @@ For example: If I'm interested in CA state date where the UFO shape is "light". 
 
 Img:
 
+<img width="1440" alt="UFOs filters" src="https://user-images.githubusercontent.com/79488124/131274035-1fd73606-0f21-4ccb-8bbf-34b77b7b444b.png">
 
 
 
